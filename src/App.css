@@ -1,0 +1,16 @@
+.item{
+    min-height: 30rem;
+    width: 30rem;
+    padding: 20px;
+}
+
+.item img{
+    height: 100%;
+    width: 100%;
+    border-radius: 2rem;
+}
+
+.inner-carousel{
+    display: flex;
+    background-color: lightblue;
+}
